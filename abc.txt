@@ -2,6 +2,7 @@ abcdje
 
 asfkansdfkn
 
+<<<<<<< Updated upstream
 
 akjsdfh
 kasdfj
@@ -9,3 +10,11 @@ kasdfj
 asdfkasdf
 
 hasfjasdkddeekd
+=======
+ajjjdd
+eeedd
+
+eeeddff
+
+dddff
+>>>>>>> Stashed changes
